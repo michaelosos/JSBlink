@@ -1,0 +1,1 @@
+Creating a jQuery program that will flash selected text.
